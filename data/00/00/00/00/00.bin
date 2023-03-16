@@ -1,0 +1,146 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : RAD (Update v1.0.2)                                       |
+  |                                                                         |
+  |   Publisher : BANDAI NAMCO                Platform : Nintendo Switch    |
+  |   Developer : Double Fine Productions       Origin : eShop              |
+  |       Genre : Action                      Title ID : 010024400C516800   |
+  :        Date : September 2019                Format : 13x50MB / NSP      |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   RAD is a 3D action rogue-like set in a post-post-apocalyptic world,   |
+  |   where humanity has faced armageddon not once, but twice.              |
+  |                                                                         |
+  |   Playing as a teenage protagonist, you must venture into the           |
+  |   Fallow - an ever-changing, radioactive wasteland filled with          |
+  |   unknown and unspeakable creatures.                                    |
+  |                                                                         |
+  |   But humanity's future comes at great personal cost, as the deeper     |
+  |   you journey into unknown lands, the more you will expose yourself     |
+  |   to gnarly toxins which will wreak havoc on your fragile human form.   |
+  |                                                                         |
+  |   The fate of the world depends on you, your trusty bat, and whatever   |
+  |   strange new abilities you gain as the world around you ravages your   |
+  |   body - twisting and mutating you into something far less than         |
+  |   human, but far more powerful.                                         |
+  |                                                                         |
+  |   But forget all that - go grab that sweet bat and help save the        |
+  |   world...or what's remaining of it anyway!                             |
+  |                                                                         |
+  |   Languages: English, French, Italian, German, Spanish, Portuguese      |
+  |   and Russian.                                                          |
+  |                                                                         |
+  |   Update/Patch Notes: v1.0.2 (v131072) - Firmware: 8.1.0 / Mkey 7.0.    |
+  |                                                                         |
+  |   * Double Fine and Bandai Namco are now offering a new update for      |
+  |     Rad. It includes a butch of adjustments, fixes, and more            |
+  |                                                                         |
+  |   * Below are the full patch notes                                      |
+  |                                                                         |
+  |   * Chronobellum Hyper cooldown changed from 4 seconds to 20 seconds.   |
+  |     Can now be used when half full                                      |
+  |                                                                         |
+  |   * Altars can give a key when sacrificing a Diet Health Potion         |
+  |                                                                         |
+  |   * Cathode Raider task to hit antenna only requires one hit instead    |
+  |     of three                                                            |
+  |                                                                         |
+  |   * Soul Glow consumable now does double damage and damages more        |
+  |     often                                                               |
+  |                                                                         |
+  |   * W2-2 overall map size has been slightly reduced to help shorten     |
+  |     run length                                                          |
+  |                                                                         |
+  |   * Symbiant targeting has been tuned                                   |
+  |                                                                         |
+  |   * Polyp Pal now has more health, will take damage from ground fire    |
+  |     and will teleport back to the player if it falls off a cliff. The   |
+  |     price has been adjusted as well                                     |
+  |                                                                         |
+  |   * Multiple crash fixes, most notably when using Mutation Swapper      |
+  |     machines                                                            |
+  |                                                                         |
+  |   * W1-2 has fewer islands and will now try to only generate 1          |
+  |     underground area. This should create far fewer incidents of maps    |
+  |     where multiple undergrounds make it confusing to navigate the       |
+  |     level                                                               |
+  |                                                                         |
+  |   * Mutation Leveler and Mutation Swapper machines no longer take       |
+  |     health when used                                                    |
+  |                                                                         |
+  |   * Anti-aliasing option added to Graphics Options. This allows the     |
+  |     player to choose between Temporal (default, what the game has       |
+  |     been using the entire time), FXAA or None. This is mostly for PC    |
+  |     and Switch players who may not like the "softness" that Temporal    |
+  |     AA creates                                                          |
+  |                                                                         |
+  |   * Vampiric Hits can no longer be triggered by hitting Death Roe       |
+  |     babies                                                              |
+  |                                                                         |
+  |   * Daily Challenge scoring has been adjusted s/t scores are            |
+  |     generally lower. The score cap was being hit too often (9999 on     |
+  |     leaderboards). Now it should be nearly impossible to hit the cap    |
+  |     without cheating                                                    |
+  |                                                                         |
+  |   * Enemies affected by Chronobellum Freeze can now take damage         |
+  |                                                                         |
+  |   * Death Roe babies are not affected by Chronobellum Freeze            |
+  |                                                                         |
+  |   * Chronobellum Freeze cooldown is now 3x longer. However, it can be   |
+  |     activated while the resource is half full now                       |
+  |                                                                         |
+  |   * Mutation cooldowns are now properly affected by Chronobellum        |
+  |                                                                         |
+  |   * High ground pound does 2 points of damage instead of 1. It still    |
+  |     has a wider AoE                                                     |
+  |                                                                         |
+  |   * Warhead combos now have a proper cooldown                           |
+  |                                                                         |
+  |   * The level seed number has been added to the upper right of the      |
+  |     Pause menu. This should help with reproducing bugs in the future    |
+  |                                                                         |
+  |   * The boss chest at the end W3-1 now contains a Split Heart instead   |
+  |     of a health potion                                                  |
+  |                                                                         |
+  |   * Bad Legs mutation can no longer be used infinitely                  |
+  |                                                                         |
+  |   * Corrupt Endo mutation machines can now grant the Mutation Power     |
+  |     buff                                                                |
+  |                                                                         |
+  |   * Shermie's shop will refresh items every time the Town level is      |
+  |     loaded so she won't be selling the same items every time            |
+  |                                                                         |
+  |   * Bummer Head mutation changed to not be a super powerful             |
+  |     projectile with no cooldown. Now it does 1 damage instead of 4,     |
+  |     has a proper cooldown, and leaves a puddle that will slow down      |
+  |     enemies but not damage them                                         |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .                   VENOM - The Playmakers! Since 2001.                   .
